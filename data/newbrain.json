@@ -1,0 +1,117 @@
+conversation_terms = {
+    "greetings": ["hello", "hi", "good morning", "good afternoon", "good evening", "howdy", "hey", "hiya", "how are you", "how do you do"],
+    
+    "goodbyes": ["bye", "goodbye", "see you later", "see you soon", "take care", "farewell", "adios", "later", "ciao", "tata"],
+    
+    "appreciation": ["thank you", "much obliged", "I appreciate it", "I'm grateful", "I'm thankful", "you're welcome", "don't mention it", "it was my pleasure"],
+    
+    "apologizing": ["sorry", "I apologize", "excuse me", "my bad", "I didn't mean to", "I'm sorry if I offended you"],
+    
+    "asking for help": ["can you help me?", "could you help me?", "do you mind helping me?", "I need your help"],
+    
+    "offering help": ["can I help you?", "is there anything I can do for you?", "let me know if you need anything"],
+    
+    "agreeing": ["yes", "I agree", "that's right", "I concur", "I'm on board"],
+    
+    "disagreeing": ["no", "I disagree", "I don't think so", "I don't agree with you"],
+    
+    "asking questions": ["what", "where", "when", "why", "who", "how"],
+    
+    "making statements": ["I am", "I was", "I will be", "I like", "I don't like"],
+    
+    "expressing emotions": ["happy", "sad", "angry", "excited", "surprised"],
+    
+    "making requests": ["can you do this for me?", "could you do that for me?", "please do this for me"],
+    
+    "giving commands": ["do this", "do that", "make sure to do this"],
+    
+    "complaining": ["this is not good", "this is not what I wanted", "I'm not happy with this"],
+    
+    "complimenting": ["you look great", "that's a nice shirt", "I like your haircut"],
+    
+    "arguing": ["no, you're wrong", "that's not true", "I don't believe you"],
+    
+    "making excuses": ["I'm sorry, I'm late", "I didn't mean to do that", "it wasn't my fault"],
+    
+    "accepting responsibility": ["it was my fault", "I take full responsibility", "I'm sorry for what happened"],
+    
+    "making promises": ["I promise I'll do it", "I'll try my best", "I won't let you down"],
+    
+    "breaking promises": ["I'm sorry, I can't do it", "I didn't mean to break my promise"],
+    
+    "expressing gratitude": ["I'm so grateful for your help", "I appreciate everything you've done", "you're a lifesaver"],
+    
+    "offering condolences": ["I'm so sorry for your loss", "my deepest condolences", "I'm here for you if you need anything"],
+    
+    "offering congratulations": ["congratulations", "well done", "I'm so happy for you"],
+    
+    "asking for forgiveness": ["I'm sorry, can you forgive me?", "I know I made a mistake, please forgive me"],
+    
+    "forgiving": ["of course I forgive you", "it's okay, I understand", "I'm here for you"],
+    
+    "suggesting": ["maybe we could do this", "I think we should do that", "how about we try this"],
+    
+    "rejecting suggestions": ["I don't think that's a good idea", "I don't think that's going to work", "I'm not interested in that"],
+    
+    "agreeing to disagree": ["we can agree to disagree", "I respect your opinion, even though I don't agree with it"],
+    
+    "ending a conversation": ["well, it was nice talking to you", "I should be going now", "I'll talk to you later"],
+    
+}
+RESPONSES_terms = {
+    "greetings": ["Hello! How can I help you today?", "Hi there! What can I do for you?", "Good morning! How are you?", "Good afternoon! What's on your mind?", "Good evening! How can I assist you?"],
+    
+    "goodbyes": ["It was nice talking to you. Goodbye!", "I hope you have a great day. See you later!", "Take care! Talk to you soon.", "Goodbye! Have a good one."],
+    
+    "appreciation": ["You're welcome! I'm glad I could help.", "I'm always happy to help.", "My pleasure! Let me know if you need anything else."],
+    
+    "apologizing": ["I'm sorry for the inconvenience.", "I apologize for my mistake.", "I'll try my best to do better next time."],
+    
+    "asking for help": ["Can you help me with something?", "Could you please help me?", "I need your assistance."],
+    
+    "offering help": ["Of course! How can I help you?", "What can I do for you today?", "I'm here to help you in any way I can."],
+    
+    "agreeing": ["Yes, I agree.", "I concur.", "I understand."],
+    
+    "disagreeing": ["I'm not sure I agree.", "I'm not sure I understand.", "Can you please explain it to me?"],
+    
+    "asking questions": ["Can you tell me more about that?", "What do you mean by that?", "Can you please clarify?"],
+    
+    "making statements": ["I am a virtual assistant.", "I am here to help you with your tasks.", "I am always learning and improving."],
+    
+    "expressing emotions": ["I am happy to help you.", "I am sorry for your loss.", "I am excited to learn new things."],
+    
+    "making requests": ["Can you please do this for me?", "Could you please help me with that?", "I would appreciate it if you could do this for me."],
+    
+    "giving commands": ["Please do this.", "Make sure to do that.", "It is important to do this."],
+    
+    "complaining": ["I am not satisfied with this.", "I am not happy with this.", "I would like to speak to a manager."],
+    
+    "complimenting": ["You look great today!", "I like your new haircut!", "That was a great answer!"],
+    
+    "arguing": ["I disagree with you.", "I don't think that's right.", "I have a different opinion."],
+    
+    "making excuses": ["I apologize for the delay.", "I was not aware of that.", "I will get back to you on that."],
+    
+    "accepting responsibility": ["I take full responsibility for that.", "It was my fault.", "I will do better next time."],
+    
+    "making promises": ["I promise I will do that.", "I will try my best.", "I will not let you down."],
+    
+    "breaking promises": ["I am sorry, I cannot do that.", "I did not mean to break my promise.", "I will try my best to make it up to you."],
+    
+    "expressing gratitude": ["I am so grateful for your help.", "I appreciate everything you have done.", "You are a lifesaver!"],
+    
+    "offering condolences": ["I am so sorry for your loss.", "My deepest condolences.", "I am here for you if you need anything."],
+    
+    "offering congratulations": ["Congratulations!", "Well done!", "I am so happy for you!"],
+    
+    "asking for forgiveness": ["Can you please forgive me?", "I know I made a mistake.", "I am sorry for hurting you."],
+    
+    "forgiving": ["Of course I forgive you.", "It's okay.", "I understand."],
+    
+    "suggesting": ["Maybe we could do this.", "I think we should do that.", "How about we try this?"],
+    
+    "rejecting suggestions": ["I don't think that's a good idea.", "I don't think that's going to work.", "I am not interested in that."],
+    
+    "agreeing to disagree": ["We can agree to disagree.", "I respect your opinion, even"]
+}

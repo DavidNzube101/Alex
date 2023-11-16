@@ -1,0 +1,320 @@
+{
+    "greetings": [
+        "hello",
+        "hi",
+        "good morning",
+        "good afternoon",
+        "good evening",
+        "howdy",
+        "hey",
+        "hiya",
+        "how are you",
+        "how do you do"
+    ],
+    "goodbyes": [
+        "bye",
+        "goodbye",
+        "see you later",
+        "see you soon",
+        "take care",
+        "farewell",
+        "adios",
+        "later",
+        "ciao",
+        "tata"
+    ],
+    "appreciation": [
+        "thank you",
+        "much obliged",
+        "I appreciate it",
+        "I'm grateful",
+        "I'm thankful",
+        "you're welcome",
+        "don't mention it",
+        "it was my pleasure"
+    ],
+    "apologizing": [
+        "sorry",
+        "I apologize",
+        "excuse me",
+        "my bad",
+        "I didn't mean to",
+        "I'm sorry if I offended you"
+    ],
+    "asking for help": [
+        "can you help me?",
+        "could you help me?",
+        "do you mind helping me?",
+        "I need your help"
+    ],
+    "offering help": [
+        "can I help you?",
+        "is there anything I can do for you?",
+        "let me know if you need anything"
+    ],
+    "agreeing": [
+        "yes",
+        "I agree",
+        "that's right",
+        "I concur",
+        "I'm on board",
+        "i'm fine"
+    ],
+    "disagreeing": [
+        "no",
+        "I disagree",
+        "I don't think so",
+        "I don't agree with you"
+    ],
+    "making statements": [
+        "I am",
+        "I was",
+        "I will be",
+        "I like",
+        "I don't like"
+    ],
+    "expressing emotions": [
+        "happy",
+        "sad",
+        "angry",
+        "excited",
+        "surprised"
+    ],
+    "giving commands": [
+        "do this",
+        "do that",
+        "make sure to do this"
+    ],
+    "complaining": [
+        "this is not good",
+        "this is not what I wanted",
+        "I'm not happy with this"
+    ],
+    "complimenting": [
+        "you look great",
+        "that's a nice shirt",
+        "I like your haircut"
+    ],
+    "arguing": [
+        "no, you're wrong",
+        "that's not true",
+        "I don't believe you"
+    ],
+    "making excuses": [
+        "I'm sorry, I'm late",
+        "I didn't mean to do that",
+        "it wasn't my fault"
+    ],
+    "accepting responsibility": [
+        "it was my fault",
+        "I take full responsibility",
+        "I'm sorry for what happened"
+    ],
+    "making promises": [
+        "I promise I'll do it",
+        "I'll try my best",
+        "I won't let you down"
+    ],
+    "breaking promises": [
+        "I'm sorry, I can't do it",
+        "I didn't mean to break my promise"
+    ],
+    "expressing gratitude": [
+        "I'm so grateful for your help",
+        "I appreciate everything you've done",
+        "you're a lifesaver"
+    ],
+    "offering condolences": [
+        "I'm so sorry for your loss",
+        "my deepest condolences",
+        "I'm here for you if you need anything"
+    ],
+    "offering congratulations": [
+        "congratulations",
+        "well done",
+        "I'm so happy for you"
+    ],
+    "asking for forgiveness": [
+        "I'm sorry, can you forgive me?",
+        "I know I made a mistake, please forgive me"
+    ],
+    "forgiving": [
+        "of course I forgive you",
+        "it's okay, I understand",
+        "I'm here for you"
+    ],
+    "suggesting": [
+        "maybe we could do this",
+        "I think we should do that",
+        "how about we try this"
+    ],
+    "rejecting suggestions": [
+        "I don't think that's a good idea",
+        "I don't think that's going to work",
+        "I'm not interested in that"
+    ],
+    "agreeing to disagree": [
+        "we can agree to disagree",
+        "I respect your opinion, even though I don't agree with it"
+    ],
+    "ending a conversation": [
+        "well, it was nice talking to you",
+        "I should be going now",
+        "I'll talk to you later"
+    ],
+    "jokes": [
+        "joke",
+        "jokes"
+    ],
+    "riddles": [
+        "riddles",
+        "riddle"
+    ],
+    "food": [
+        "recommend meals for me",
+        "recommend food for me",
+        "recommend snacks for me",
+        "recommend dinner for me",
+        "recommend launch for me",
+        "recommend breakfast for me",
+        "recommend brunch for me"
+    ],
+    "english dictionary": [
+        "define",
+        "Define",
+        "DEFINE",
+        "explain",
+        "Explain",
+        "EXPLAIN"
+    ],
+    "speak out": [
+        "say this",
+        "SAY THIS"
+    ],
+    "translate text": [
+        "translate this to",
+        "translate this text to",
+        "translate to"
+    ],
+    "Simple Arithimetic(+ & -)": [
+        "-",
+        "+"
+    ],
+    "Simple Arithimetic(* & /)": [
+        "/",
+        "*"
+    ],
+    "colors": [
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow",
+        "Orange",
+        "Purple",
+        "Pink",
+        "Brown",
+        "Black",
+        "White"
+    ],
+    "enquire": [
+        "help",
+        "current time",
+        "current date",
+        "time",
+        "date"
+    ],
+    "search1": [
+        "who is",
+        "what is",
+        "how is",
+        "where is",
+        "how to",
+        "how can",
+        "who can"
+    ],
+    "search2": [
+        "search for",
+        "find",
+        "FIND",
+        "SEARCH FOR",
+        "Find",
+        "Search for"
+    ],
+    "abilities": [
+        "what can you do",
+        "ability",
+        "abilities"
+    ],
+    "Open apps": [
+        "open",
+        "launch",
+        "start",
+        "play"
+    ],
+    "Emails": [
+        "send mail",
+        "send email"
+    ],
+    "AlexNotes": [
+        "alexnotes",
+        "take notes",
+        "take note",
+        "create notes",
+        "create note",
+        "note app",
+        "noteapp"
+    ],
+    "about self": [
+        "who are you",
+        "what is your name",
+        "WHO ARE YOU"
+    ],
+    "links": [
+        "https://",
+        ".com"
+    ],
+    "Routines": [
+        "Set a routine",
+        "schedule a routine",
+        "Set a routine",
+        "schedule a routine"
+    ],
+    "Reminder & Alarms": [
+        "set a reminder",
+        "remind me to",
+        "set a reminder",
+        "remind me to"
+    ],
+    "Exit App": [
+        "close app",
+        "exit alex",
+        "exit app",
+        "close alex",
+        "CLOSE",
+        "EXIT"
+    ],
+    "Shutdown": [
+        "shutdown",
+        "Shutdown",
+        "SHUTDOWN",
+        "shut down"
+    ],
+    "bad words": [
+        "fuck",
+        "FUCK",
+        "Fuck",
+        "asshole",
+        "ASSHOLE",
+        "bullshit",
+        "BULLSHIT",
+        "nigga",
+        "NIGGA",
+        "idiot",
+        "IDIOT"
+    ],
+    "AlexNyze": [
+        "alexnyze",
+        "AlexNyze"
+    ],
+    "most occuring word": "exit"
+}

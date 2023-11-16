@@ -1,0 +1,266 @@
+{
+    "greetings": [
+        "How can I help you today?",
+        "What can I do for you?",
+        "How are you?",
+        "What's on your mind?",
+        "How can I assist you?"
+    ],
+    "goodbyes": [
+        "It was nice talking to you. Goodbye!",
+        "I hope you have a great day. See you later!",
+        "Take care! Talk to you soon.",
+        "Goodbye! Have a good one."
+    ],
+    "appreciation": [
+        "You're welcome! I'm glad I could help.",
+        "I'm always happy to help.",
+        "My pleasure! Let me know if you need anything else."
+    ],
+    "apologizing": [
+        "I'm sorry for the inconvenience.",
+        "I apologize for my mistake.",
+        "I'll try my best to do better next time."
+    ],
+    "asking for help": [
+        "Can you help me with something?",
+        "Could you please help me?",
+        "I need your assistance."
+    ],
+    "offering help": [
+        "Of course! How can I help you?",
+        "What can I do for you today?",
+        "I'm here to help you in any way I can."
+    ],
+    "agreeing": [
+        "Yes, I agree.",
+        "I concur.",
+        "I understand."
+    ],
+    "disagreeing": [
+        "I'm not sure I agree.",
+        "I'm not sure I understand.",
+        "Can you please explain it to me?"
+    ],
+    "making statements": [
+        "I am a virtual assistant.",
+        "I am here to help you with your tasks.",
+        "I am always learning and improving."
+    ],
+    "expressing emotions": [
+        "I am happy to help you.",
+        "I am sorry for your loss.",
+        "I am excited to learn new things."
+    ],
+    "giving commands": [
+        "Please do this.",
+        "Make sure to do that.",
+        "It is important to do this."
+    ],
+    "complaining": [
+        "I am not satisfied with this.",
+        "I am not happy with this.",
+        "I would like to speak to a manager."
+    ],
+    "complimenting": [
+        "You look great today!",
+        "I like your new haircut!",
+        "That was a great answer!"
+    ],
+    "arguing": [
+        "I disagree with you.",
+        "I don't think that's right.",
+        "I have a different opinion."
+    ],
+    "making excuses": [
+        "I apologize for the delay.",
+        "I was not aware of that.",
+        "I will get back to you on that."
+    ],
+    "accepting responsibility": [
+        "I take full responsibility for that.",
+        "It was my fault.",
+        "I will do better next time."
+    ],
+    "making promises": [
+        "I promise I will do that.",
+        "I will try my best.",
+        "I will not let you down."
+    ],
+    "breaking promises": [
+        "I am sorry, I cannot do that.",
+        "I did not mean to break my promise.",
+        "I will try my best to make it up to you."
+    ],
+    "expressing gratitude": [
+        "I am so grateful for your help.",
+        "I appreciate everything you have done.",
+        "You are a lifesaver!"
+    ],
+    "offering condolences": [
+        "I am so sorry for your loss.",
+        "My deepest condolences.",
+        "I am here for you if you need anything."
+    ],
+    "offering congratulations": [
+        "Congratulations!",
+        "Well done!",
+        "I am so happy for you!"
+    ],
+    "asking for forgiveness": [
+        "Can you please forgive me?",
+        "I know I made a mistake.",
+        "I am sorry for hurting you."
+    ],
+    "forgiving": [
+        "Of course I forgive you.",
+        "It's okay.",
+        "I understand."
+    ],
+    "suggesting": [
+        "Maybe we could do this.",
+        "I think we should do that.",
+        "How about we try this?"
+    ],
+    "rejecting suggestions": [
+        "I don't think that's a good idea.",
+        "I don't think that's going to work.",
+        "I am not interested in that."
+    ],
+    "agreeing to disagree": [
+        "We can agree to disagree.",
+        "I respect your opinion, even"
+    ],
+    "jokes": [
+        "Why don\u2019t scientists trust\natoms? Because they\nmake up everything.",
+        "Parallel lines have so\nmuch in common. It\u2019s\na shame they\u2019ll never\nmeet.",
+        "How do you organize\na space party?\nYou \"planet\"!",
+        "I told my wife she was\ndrawing her eyebrows too\nhigh. She seemed\nsurprised."
+    ],
+    "riddles": [
+        "I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I? (An echo)",
+        "The more you take, the more you leave behind. What am I? (Footsteps)",
+        "What has keys but can\\'t open locks? (A piano)",
+        "I\\'m not alive, but I can grow.\nI don\\'t have lungs,\nbut I need air.\nWhat am I? (A fire)",
+        "The person who makes it, sells it.\nThe person who buys it never uses it.\nWhat is it? (A coffin)",
+        "What has keys but can\\'t\nopen locks,\nand has space but no room?\n(A computer keyboard)",
+        "I am taken from a mine,\nand shut up in a wooden case,\nfrom which I am never released,\nand yet I am used by almost every person.\nWhat am I? (A pencil lead)"
+    ],
+    "food": [
+        "How about some pizza for your cravings?",
+        "A burger might just hit the spot.",
+        "If you're feeling fancy, sushi is a great choice.",
+        "Ice cream sounds like a sweet treat.",
+        "A salad could be a healthy option."
+    ],
+    "english dictionary": [
+        "Results:\n",
+        "It means:\n",
+        "Definition:\n"
+    ],
+    "speak out": [
+        "",
+        "",
+        ""
+    ],
+    "translate text": [
+        "Tranlation\n",
+        "Here:\n",
+        "Translated:\n"
+    ],
+    "Simple Arithimetic(+ & -)": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "Simple Arithimetic(* & /)": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "colors": [
+        "Red is such a vibrant color!",
+        "Blue is always so calming.",
+        "Green symbolizes nature and growth.",
+        "Yellow brings a cheerful vibe.",
+        "Orange is warm and energetic."
+    ],
+    "abilities": [
+        "Well to start\nwith, I can\nbasically assist\nyou",
+        "Assisting you is\nmy main priority",
+        "Here a list of things\nyou could try:\n1.) Try 'Current time'.\n2.) Try '72-34'.\n3.) Try 'who is Sundar Pichai'.\n4.) Try 'how to bake bread'.\n5.) Try 'recommend meals for me.\n6.) Try 'Open Notepad'."
+    ],
+    "enquire": [
+        "Time:12:57\nDate: 2023-08-24",
+        "Time:12:57\nDate: 2023-08-24",
+        "Time:12:57\nDate: 2023-08-24"
+    ],
+    "search1": [
+        "Here are the results",
+        "Found results",
+        "These is what I found",
+        "Results:"
+    ],
+    "search2": [
+        "",
+        "",
+        ""
+    ],
+    "Open apps": [
+        "Opening app",
+        "Launching",
+        "Starting"
+    ],
+    "Emails": [
+        "Launching dialog....",
+        "Opening dialog....",
+        "Launching dialog...."
+    ],
+    "AlexNotes": [
+        "Opening",
+        "Launching",
+        "Opening"
+    ],
+    "about self": [
+        "My name is Alex, your personal &\nvirtual assistant built for the purpose\nof automating your tasks and jobs\n.Type `help` for the list of\nthings I can help you do",
+        "I am Alex.",
+        "Alex is the name."
+    ],
+    "Routines": [
+        "Okay sure",
+        "Sure thing\nI'll prepare your\nroutine",
+        "Preparing routine"
+    ],
+    "Reminder & Alarms": [
+        "Set a reminder\nfor what?",
+        "For what\nplease?",
+        "Set an alarm\nfor what?"
+    ],
+    "Exit App": [
+        "Closing....",
+        "Exiting....",
+        "Closing application....."
+    ],
+    "Shutdown": [
+        "Shutting Down.......",
+        "Closing all applications.....",
+        "Powering off........"
+    ],
+    "bad words": [
+        "Sorry, we don't use those words here",
+        "Watch the Language!",
+        "There are more ways to express your anger"
+    ],
+    "AlexNyze": [
+        "Opening...",
+        "Oh, you got data to analyze, lets get to it",
+        "AlexNyze"
+    ],
+    "most occuring word": [
+        "exit?",
+        "exit?",
+        "exit?"
+    ]
+}
